@@ -13,9 +13,9 @@ Check driver installation
 
 Install Python 3.11
 
-`sudo add-apt-repository ppa:deadsnakes/ppa`
-`sudo apt install python3.11`
-`sudo apt install python3.11-dev`
+`sudo add-apt-repository ppa:deadsnakes/ppa`\n
+`sudo apt install python3.11`\n
+`sudo apt install python3.11-dev`\n
 `sudo ln -s /usr/bin/python3.11 /usr/bin/python3`
 
 Install NeMo
