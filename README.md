@@ -13,15 +13,20 @@ Check driver installation
 
 Install Python 3.11
 
-`sudo add-apt-repository ppa:deadsnakes/ppa`\n
-`sudo apt install python3.11`\n
-`sudo apt install python3.11-dev`\n
+`sudo add-apt-repository ppa:deadsnakes/ppa`
+
+`sudo apt install python3.11`
+
+`sudo apt install python3.11-dev`
+
 `sudo ln -s /usr/bin/python3.11 /usr/bin/python3`
 
 Install NeMo
 
 `pip install Cython`
+
 `pip install nemo_toolkit[all]` or `python3.11 -m pip install nemo_toolkit[all]`
+
 `pip install --upgrade more-itertools inflect`
 
 
