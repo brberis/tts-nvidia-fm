@@ -3,6 +3,7 @@ Installation on Ubuntu 20.04
 
 ### Install NVIDIA GPU Drivers
 `sudo apt-get update`
+
 `sudo apt install nvidia-driver-550` (A100)
 
 Check driver installation
